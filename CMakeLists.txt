@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(gazebo_world_description)
+project(autoware_world_description_ros2)
 
 find_package(ament_cmake REQUIRED)
 
